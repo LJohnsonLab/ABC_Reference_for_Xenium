@@ -1,6 +1,6 @@
 Session info:      
 Click to view session information      
------      
+    
 abc_atlas_access    NA      
 anndata             0.12.7      
 matplotlib          3.10.8      
@@ -8,7 +8,7 @@ numpy               2.2.6
 pandas              3.0.0      
 scanpy              1.11.5      
 session_info        1.0.0      
------      
+   
 Click to view modules imported as dependencies      
 PIL                         12.1.0      
 annotated_types             0.7.0      
@@ -123,14 +123,14 @@ zarr                        3.1.5
 zipp                        NA      
 zmq                         27.1.0      
 zoneinfo                    NA      
------      
+         
 IPython             9.8.0      
 jupyter_client      8.6.3      
 jupyter_core        5.9.1     
 jupyterlab          4.5.0     
 notebook            7.5.0    
------    
+      
 Python 3.11.14 (main, Oct 21 2025, 18:27:30) [Clang 20.1.8 ]    
 macOS-26.5-arm64-i386-64bit      
------      
+         
 Session information updated at 2026-06-02 15:28      
